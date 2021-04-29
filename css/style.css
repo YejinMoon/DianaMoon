@@ -20,14 +20,14 @@ img {
   color: #ebe8e6;
   letter-spacing: 5px;
   display: block;
-  width: 80%;
+  width: 95%;
   margin: auto;
   line-height: 300%;
 }
 
 .last_add {
   font-family: "DNanum Gothic Coding", regular;
-  font-size: 17px;
+  font-size: 23px;
   display: block;
   text-align: center;
   margin-top: 70px;
@@ -70,7 +70,7 @@ img {
 
 @media(max-width:1125px) {
   #menu span {
-    font-size:24px;
+    font-size:35px;
     text-align: center;
     display:block;
     border-bottom: 1px solid black;
@@ -86,11 +86,11 @@ img {
     width:85%;
   }
   .intro_title {
-  font-size: 20px;
+  font-size: 40px;
   letter-spacing: 3px;
   }
   #article {
-  font-size: 20px;
+  font-size: 28px;
   }
 }
 
